@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Mar 14 17:17:06 YEKT 2023","Tue Mar 14 17:17:07 YEKT 2023","826","Проверка таблиц БД","test_utk_action_promocode","TestTable","","","Типы данных столбцов таблицы utk_action_promocode соответствуют требованиям",""
+"passed","Tue Mar 14 17:17:05 YEKT 2023","Tue Mar 14 17:17:06 YEKT 2023","100","Проверка таблиц БД","test_utk_action_promocode","TestTable","","","Количество столбцов таблицы utk_action_promocode соответствуют требованиям",""
+"passed","Tue Mar 14 17:17:06 YEKT 2023","Tue Mar 14 17:17:06 YEKT 2023","129","Проверка таблиц БД","test_utk_action_promocode","TestTable","","","Имена столбцов таблицы utk_action_promocode соответствуют требованиям",""

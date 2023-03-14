@@ -14,7 +14,7 @@ class TestTable():
     def test_utk_action_promocode_columns_count_equals_requirement(
             self,
             table_name,
-            cursor,):
+            cursor):
         base.columns_count_equals_requirement(cursor, table_name)
 
     # проверяем имена столбцов
