@@ -33,5 +33,5 @@ class TestTable():
             self,
             table_name,
             cursor):
-
         base.columns_types_equals_requirement(cursor, table_name)
+        
